@@ -19,6 +19,8 @@ API_TEXT = """🙋‍♂ Hi {},
 I am a String Session generator bot.
 
 For generating string session send me your `API_ID` 🐿
+
+JOIN :- @TEAM_SILENT-KING TO USE ME 
 """
 HASH_TEXT = "Ok Now Send your `API_HASH` to Continue.\n\nPress /cancel to Cancel.🐧"
 PHONE_NUMBER_TEXT = (
