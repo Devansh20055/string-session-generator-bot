@@ -234,13 +234,13 @@ __🧰 Framework:__ [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 __👨‍💻 Developer:__ [𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬](https://t.me/Ns_AnoNymouS)
 
-__📢 Channel:__ [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+__📢 Channel:__ [ BOT UPDATES](https://t.me/TEAM_SILENT_KING)
 
-__👥 Group:__ [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
+__👥 Group:__ [ BOT SUPPORT](https://t.me/OFF_CHATS)
 
-__🌐 Source Code:__ [Press Me 😋](https://github.com/Ns-AnoNymouS/string-session-generator-bot)
+__🌐 Source Code:__ [Press Me 😋](https://github.com/Devansh20055/string-session-generator-bot)
 
-__🚀 YouTube Channel:__ [Ns Bots](https://youtube.com/channel/UC9NnqJ63aSzv457iUMM06vQ)
+__🚀 YouTube Channel:__ [SILENT KING ]https://www.youtube.com/channel/UC28Z7OuZiKuIZ-kFxNkG4Kw)
 """
 
     buttons = [[
